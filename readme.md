@@ -1,5 +1,5 @@
 # Door Management System
-Build a simple door management system for a facility.
+A simple door management system for a facility.
 
 Please consider the following use cases:
 
