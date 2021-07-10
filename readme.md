@@ -3,7 +3,7 @@ Build a simple door management system for a facility.
 
 Please consider the following use cases:
 
-# When I connect my client to the server –
+### When I connect my client to the server –
 Then I would like a list of all the doors at the facility.
 # When reviewing a door within the client –
 Then I would expect each door to have a customisable label to provide user friendly reference to an individual door
